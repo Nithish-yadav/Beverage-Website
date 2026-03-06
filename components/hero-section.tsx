@@ -229,7 +229,7 @@ export function HeroSection() {
                 }}
               >
                 <Image
-                  src="/images/drink2.png"
+                  src="/images/drink1.png"
                   alt="Origin Energy Drink - Lemon Lime Flavour"
                   width={350}
                   height={525}
