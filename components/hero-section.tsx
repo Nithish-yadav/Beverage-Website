@@ -161,7 +161,7 @@ export function HeroSection() {
                   whileHover={{ x: "200%" }}
                   transition={{ duration: 0.6 }}
                 />
-                <span className="relative z-10">Sign Up & Save 25%</span>
+                <span className="relative z-10">Sign Up & Save 15%</span>
                 <motion.svg
                   className="w-4 h-4 relative z-10"
                   fill="none"

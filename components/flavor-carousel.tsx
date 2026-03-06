@@ -19,7 +19,7 @@ const flavors = [
   },
   {
     id: 2,
-    name: "Pineapple Coconut",
+    name: "Wild Berry",
     tagline: "Tropical Rush",
     description: "Island vibes with every sip. Transport yourself to paradise.",
     image: "/images/drink2.png",

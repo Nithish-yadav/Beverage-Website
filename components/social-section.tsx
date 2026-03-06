@@ -60,7 +60,7 @@ export function SocialSection() {
             viewport={{ once: true }}
             transition={{ delay: 0.1 }}
           >
-            FOLLOW US
+            FOLLOW THE ENERGY
           </motion.span>
           <h2 className="text-3xl md:text-5xl font-black text-white tracking-tighter mt-2 overflow-hidden">
             <motion.span
@@ -137,7 +137,7 @@ export function SocialSection() {
           transition={{ delay: 0.5 }}
         >
           <motion.a
-            href="https://instagram.com/originenergy.in"
+            href="https://instagram.com/origin.in"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-[#AFFF00] text-[#121212] px-6 py-3 rounded-full font-bold text-sm tracking-wide relative overflow-hidden group"
@@ -151,7 +151,7 @@ export function SocialSection() {
               transition={{ duration: 0.6 }}
             />
             <Instagram className="w-4 h-4 relative z-10" />
-            <span className="relative z-10">Follow @originenergy.in</span>
+            <span className="relative z-10">Follow @origin</span>
           </motion.a>
         </motion.div>
       </div>
