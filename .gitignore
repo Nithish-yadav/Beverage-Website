@@ -25,8 +25,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-# ignored images
-/public/images/coconut.png
-/public/images/drink1.png
-/public/images/drink2.png
